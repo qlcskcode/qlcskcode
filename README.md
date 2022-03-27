@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?&type=rounded&color=50C8FF&height=120&section=header&text=♡qlcskcode♥&fontColor=FFFFFF&fontSize=40)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qlcskcode&show_icons=true&theme=default)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qlcskcode)](https://solved.ac/qlcskcode)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qlcskcode)](https://solved.ac/qlcskcode)
 
 🍒일상블로그 놀러오세요🍒
 
