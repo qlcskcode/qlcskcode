@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?&type=wave&color=auto&height=120&section=header&text=♡HELLO♥&fontColor=FFFFFF&fontSize=40)
+![header](https://capsule-render.vercel.app/api?&type=wave&color=auto&height=120&section=header&text=♡HELLO♥&fontColor=auto&fontSize=20)
 </br></br>
 
 ❤️🧡💛💚💙💜🖤🤎🤍❤️🧡💛💚💙💜🖤🤎🤍❤️🧡💛💚💙💜🖤🤎🤍❤️🧡💛💚💙💜🖤🤎🤍❤️🧡💛
@@ -17,9 +17,11 @@
 </br></br>
 
 
-<center>🍒일상블로그🍒</center>
+🍒일상블로그🍒
+</br>
 
 <a href="https://blog.naver.com/qlcskcode" target="_blank"><img src="https://img.shields.io/badge/일상-색코드?style=flat-square&logo=Naver&logoColor=white"/></a>
+
 
 💦I'm beginner💦
 
