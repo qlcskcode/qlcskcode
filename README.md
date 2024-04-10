@@ -1,8 +1,3 @@
-<style>
-  .line {
-    color: blue;
-  }
-</style>
 
 <div class="line">
 🍒
