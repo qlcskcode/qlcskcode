@@ -55,4 +55,5 @@
 ## 📫 Contact
 📧 **Email**: qlcskcode@naver.com
 
-🗒️ **Portfolio**: https://www.notion.so/24295c42cdd08066bcdae8091bd3ce82?source=copy_link#29195c42cdd080cc8ef1d80a1f650a6c
+🗒️ **Portfolio**: [https://www.notion.so/24295c42cdd08066bcdae8091bd3ce82?source=copy_link#29195c42cdd080cc8ef1d80a1f650a6c
+](https://file.notion.so/f/f/b5ccb2ec-9342-4aa5-8fc3-11cbf317daea/193c788e-4071-4399-a782-3a21d8f43d17/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_251019_211259.pdf?table=block&id=2911b0bd-171c-8093-9a06-fcdb2a3de9c1&spaceId=b5ccb2ec-9342-4aa5-8fc3-11cbf317daea&expirationTimestamp=1760904000000&signature=SqNeJi2E3y2jPTFKUCM6XQwTxLOBVABphpNWDZoSyA0&downloadName=%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_251019_211259.pdf)
