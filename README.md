@@ -17,23 +17,23 @@
 
 ## 💼 Projects
 
-### 🗺️ [Barrier-Free Backend](https://github.com/sunheedev/barrier-free-backend)
+### 🗺️ [Barrier-Free Backend](https://github.com/qlcskcode/barrier-free-backend)
 > 이동 약자를 위한 배리어프리 지도 서비스  
 > 장소 검색 + 좋아요 랭킹 + AWS 배포 자동화  
 > `Spring Boot` `JPA` `QueryDSL` `Redis`
 
 
-### 🌤️ [Wearther Backend](https://github.com/sunheedev/wearther_backend)
+### 🌤️ [Wearther Backend](https://github.com/qlcskcode/wearther_backend)
 > 날씨 기반 패션 추천 서비스  
 > `Spring Boot` `JWT` `JPA`
 
 
-### 🍱 [Alddeul_Babsang-Server](https://github.com/sunheedev/Alddeul_Babsang-Server)
+### 🍱 [Alddeul_Babsang-Server](https://github.com/qlcskcode/Alddeul_Babsang-Server)
 > 저렴한 가게를 소개하고 추천하는 서비스  
 > `Spring Boot` `MySQL` `AWS`
 
 
-### 🌿 [Greenish Backend](https://github.com/sunheedev/greenish-backend)
+### 🌿 [Greenish Backend](https://github.com/qlcskcode/greenish-backend)
 > 초보 식집사를 위한 반려식물 물주기 관리 앱  
 > `Spring Boot` `MySQL` `AWS`
 
